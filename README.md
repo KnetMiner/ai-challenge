@@ -12,4 +12,4 @@ Eg. of an incorrect mapping:
 
 ### 3) Given a wrong mapping, how would you go about assigning the correct Trait ID to the predicted Trait term?
 
-If you have the time, please prepare a short presentation on your code and findings.
+### If you have the time, please prepare a short presentation on your code and findings.
