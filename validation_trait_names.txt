@@ -1,0 +1,37 @@
+trait_name
+abiotic stress tolerance
+auxin response
+cadmium content
+cereal cyst nematode resistance
+cytokinin accumulation
+disease resistance
+fungal disease resistance
+Fusarium head blight disease resistance
+gluten content
+grain development
+grain yield
+heading date
+hybrid necrosis
+Kernel length
+kernel thickness
+kernel weight
+Kernel width
+nitrogen use efficiency
+photoperiod sensitivity
+plant stress response
+pre-harvest sprouting resistance
+root biomass
+root system depth
+salicylic acid content
+seed vigor
+septoria nodorum blotch disease resistance
+spike length
+spikelet number per spike
+stripe rust disease resistance
+thousand-grain weight
+Thousand-kernel weight
+tiller number per plant
+tocopherol content
+vernalization requirement
+viral disease resistance
+wheat sharp eyespot disease resistance
