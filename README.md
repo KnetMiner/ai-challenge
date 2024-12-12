@@ -32,12 +32,15 @@ You will analyse outputs from three LLM models stored in separate CSV files. Eac
 ---
 
 ### **Task 4: Predict TO Mappings for Given Trait Terms**
-- **Goal**: Apply your methods to predict TO mappings for a set of challengine trait terms that don't have exact matches in TO. The aim is to provide a well structured output for a manual data curation step, helping to reduce the amount of time needed for manual review.
+- **Goal**: Apply your methods to predict TO mappings for a set of challenging trait terms that do not have exact matches in TO. The aim is to provide a well-structured output for a manual data curation step, helping to reduce the time required for manual review.
 - **Key Requirements**:
   - Use `validation_trait_names.txt` to evaluate your model or approach.
-  - Provide a confidence value for the mapping, where 0 means the trait term does not exist in TO (e.g. vernalization requirement), and 1 means the identified TO term is 100% correct (e.g. spike length -> TO:0002768 -> spikelet length).
-  - Generate explanations for low-confidence predictions using an LLM.
-  - Submit a CSV with columns: `trait_term, to_id, to_term, confidence, explanation` and your code.
+  - Provide a confidence value for the mapping, where:
+    - `0` indicates that the trait term does not exist in TO (e.g. vernalization requirement).
+    - `1` indicates that the identified TO term is 100% correct (e.g. spike length -> TO:0002768 -> spikelet length).
+  - Generate explanations for low-confidence predictions using an LLM as the judge.
+  - Submit a CSV with the following columns: `trait_term`, `to_id`, `to_term`, `confidence`, `explanation`, along with your code.
+
 
 ---
 
